@@ -1,0 +1,62 @@
+
+.bgrpic{
+    background-image: url(../images/bg.jpg) ;
+    background-position: center;
+    background-size: cover;
+    padding: 7%;
+}
+a{
+    color: red !important;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(196, 24, 24) !important;
+}
+.codinh{
+    width: 28%;
+    float: left;
+    margin: 2%;
+}
+.fixpo{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+}
+.khoifm{
+    width: 100%;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+    background-color:white;
+    border-radius: 15px;
+}
+.anhfm{
+    width: 20%;
+    float: left;
+}
+.ttinfm{
+    width: 70%;
+    float: left;
+    margin-left: 8%;
+}
+.giafm{
+    font-size: 1.2rem;
+    margin: 2% 0;
+}
+.motafm{
+    font-size: 1rem;
+    color: #747d8c;
+}
+.fixsize{
+    width: 100%;
+
+}
+.bovien{
+    border-radius: 15px;
+}
+.fixnav{
+    display: inline !important;
+}
+.bgr2{
+    background-color: darkgray;
+}
